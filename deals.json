@@ -1,5 +1,5 @@
 {
- "data":{ 
+ "data":
     {
       "dealName":"Bannermans",
       "dealOffer1":"All Day every day 10% off all full priced drinks.",
@@ -7,5 +7,4 @@
       "dealOffer3":"Open mic Sunday sessions 3pm-8pm.",
       "dealOffer4":"Jim Beam black + mixers £2.00.",
     }
-  }
 }
