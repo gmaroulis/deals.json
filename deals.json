@@ -1,13 +1,13 @@
 {
-  success:"200",
+  "success":"200",
   
-  data:{ 
+  "data":{ 
     {
-      dealName:"Bannermans",
-      dealOffer1:"All Day every day 10% off all full priced drinks.",
-      dealOffer2:"2 4 1 entry to live gigs.",
-      dealOffer3:"Open mic Sunday sessions 3pm-8pm.",
-      dealOffer4:"Jim Beam black + mixers £2.00.",
+      "dealName":"Bannermans",
+      "dealOffer1":"All Day every day 10% off all full priced drinks.",
+      "dealOffer2":"2 4 1 entry to live gigs.",
+      "dealOffer3":"Open mic Sunday sessions 3pm-8pm.",
+      "dealOffer4":"Jim Beam black + mixers £2.00.",
     }
   }
 }
